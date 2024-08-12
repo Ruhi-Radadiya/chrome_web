@@ -36,7 +36,6 @@
 <hr>
 
 ### 1.Profile Page:
-<img src="" width=250px>
 <img src="https://github.com/user-attachments/assets/22b57f97-3d7e-49c3-bfb8-4e5fd6cc5063" width=250px>
 
 ### 2.SignIn Page:
